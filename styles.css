@@ -1,0 +1,14 @@
+body{
+    width: 100%;
+}
+.list{
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    padding: 30px;
+    margin: 0;
+    justify-content: space-around;
+}
+.list_width{
+    width: 33.33333333%;
+}
