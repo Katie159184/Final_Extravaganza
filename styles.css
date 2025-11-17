@@ -13,15 +13,12 @@ body{
 }
 .list_width{
     width: 33.33333333%;
+    padding: 20px;
+    box-sizing: border-box;
 }
 .images {
-    padding-bottom: 300px;
-    max-height: 3px;
-    max-width: 5px;
-    transform: scale(15%);
-    display: block;
-    margin: 0;
-    justify-content: space-around;
+    width: 100%;
+    height: auto;
 }
 .head {
     padding: 10px;
