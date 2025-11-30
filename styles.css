@@ -20,7 +20,7 @@ body{
 }
 .images {
     width: 100%;
-    height: auto;
+    height: 300px;
 }
 .head { 
     font-size: 80px;
