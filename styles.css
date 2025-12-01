@@ -46,3 +46,11 @@ a:visited {
 .footer {
     background-color: rgb(50, 105, 150);
 }
+.text-img {
+    display: flex;
+
+}
+.img {
+    max-width: 10%;
+    padding: 0px 30px 0px 30px;
+}
